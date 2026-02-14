@@ -25,7 +25,7 @@ p{
   font-size:1.25em;
   margin-bottom:20px;
   white-space: wrap;
-  line-height: 1.25em;
+  line-height: 1.5em;
 }
 .letter-content{
   width:600px;
@@ -71,4 +71,5 @@ h1{
 .polaroid6{
   top:496.8px;
 }
+
 
